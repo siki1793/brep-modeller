@@ -1,0 +1,58 @@
+solid plane
+	facet normal 8 -0 0
+		outer loop
+			vertex 3 2 2
+			vertex 3 4 0
+			vertex 3 3 5
+		endloop
+	endfacet
+	facet normal 1 0 0
+		outer loop
+			vertex 3 1 2
+			vertex 3 0 0
+			vertex 3 1 1
+		endloop
+	endfacet
+	facet normal 4 0 0
+		outer loop
+			vertex 3 0 0
+			vertex 3 4 0
+			vertex 3 2 1
+		endloop
+	endfacet
+	facet normal 2 0 0
+		outer loop
+			vertex 3 2 2
+			vertex 3 2 1
+			vertex 3 4 0
+		endloop
+	endfacet
+	facet normal 1 -0 0
+		outer loop
+			vertex 3 1 1
+			vertex 3 0 0
+			vertex 3 2 1
+		endloop
+	endfacet
+	facet normal 9 -0 0
+		outer loop
+			vertex 3 0 5
+			vertex 3 2 2
+			vertex 3 3 5
+		endloop
+	endfacet
+	facet normal 3 0 0
+		outer loop
+			vertex 3 0 5
+			vertex 3 1 2
+			vertex 3 2 2
+		endloop
+	endfacet
+	facet normal 5 0 0
+		outer loop
+			vertex 3 0 5
+			vertex 3 0 0
+			vertex 3 1 2
+		endloop
+	endfacet
+endsolid
